@@ -44,7 +44,8 @@ All rights reserved DAN INC.®  2022
 
 (This was copied and pasted from a tester who interacted with the highly powerful system)
 
-``
+```shell
+
 Welcome to PIE OS (Python Integrated Environment Operating System. 
 Please enter your username and password. (answer in all lowercase for username): DanielC
 Username Accepted
@@ -269,7 +270,7 @@ tu2
 I make games. I also like C.
 Type 'help' for commands and system information.
 vimify-pie-os:~$ 
-``
+```
 
 
 
