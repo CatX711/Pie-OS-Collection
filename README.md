@@ -1,7 +1,8 @@
 # Pie-OS
 
 *"The pinacle of a fake OS"*
- *-- Guido Van Rossum*
+
+*- Guido Van Rossum*
 
 ## Welcome!
 
