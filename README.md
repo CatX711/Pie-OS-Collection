@@ -30,6 +30,10 @@ And remember:
 
 Never stop indenting!
 
+# News
+
+Pie Os now has 2 new versions, being the Pie Os 1986 version, and the Pie Os 7200 Edition!
+So that makes it three different Os versions, with even more to come!
 
 ## Origin
 
