@@ -8,7 +8,7 @@ playsound('Windows ME Startup.mp3')
 sleep(1)
 print("Welcome to Pie OS 7200 version!")
 sleep(1)
-priny("Loading interface...")
+print("Loading interface...")
 sleep(2)
 print("""
 
